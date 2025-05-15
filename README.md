@@ -5,3 +5,8 @@
 
 
 <label>Triyak Komponent: https://tr.wikipedia.org/wiki/Triyak</label>
+
+
+<label>Diyak Komponent: https://tr.wikipedia.org/wiki/Diyak</label>
+
+<label></label>
