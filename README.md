@@ -6,7 +6,10 @@
 
 <label>Triyak Komponent: https://tr.wikipedia.org/wiki/Triyak</label>
 
-
 <label>Diyak Komponent: https://tr.wikipedia.org/wiki/Diyak</label>
 
-<label></label>
+<label>Op Amp Nedir: https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri/</label>
+
+
+<label>Mosfet nedir: https://maker.robotistan.com/mosfet/</label>
+
