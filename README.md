@@ -10,6 +10,7 @@
 
 <label>Op Amp Nedir: https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri/</label>
 
-
 <label>Mosfet nedir: https://maker.robotistan.com/mosfet/</label>
+
+
 
