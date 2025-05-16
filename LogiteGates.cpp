@@ -18,7 +18,7 @@ else if(A==0 OR B == 1){
 else if(A==0 OR B == 0){
   return 0;}
 
-//NOT:
+//NOT (DEĞİL):
 if(A==0){
   return 1;}
 else{
