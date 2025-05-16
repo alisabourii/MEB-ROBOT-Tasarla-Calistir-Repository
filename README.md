@@ -12,6 +12,6 @@
 
 <label>Mosfet nedir: https://maker.robotistan.com/mosfet/</label>
 
-# _____________________________________________________________________________________________________________
+# 
 
 ![image](https://github.com/user-attachments/assets/f99b7008-fec9-4f8c-b1c5-48a7ccb026f8)
