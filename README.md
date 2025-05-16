@@ -19,32 +19,5 @@
 A ve B değişkeleri sadece 0 ve 1 (Binary sistem) değerleri alabilirler.
 
 
-AND:
-
-if(A==1 AND B == 1){
-
-  return 1;
-  }
-  
-else if(A==1 AND B == 0){
-
-  return 0;
-  }
-else if(A==0 AND B == 1){
-
-  return 0;
-  }
-else{
-
-  return 0;
-  }
-
-OR:
-if(A==1 OR B == 1){
-  return 1;}
-else if(A==1 OR B == 0){
-  return 1;}
-else if(A==0 OR B == 1){
-  return 1;}
-else if(A==0 OR B == 0){
-  return 0;}
+**![carbon](https://github.com/user-attachments/assets/6bebc52f-b4e7-4864-a975-c91f00c0f34c)
+**
