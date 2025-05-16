@@ -30,7 +30,7 @@ if(A==1){
 else{
   return 0;}
 
-//AND NOT:
+//AND NOT (VE DEĞİL):
 if(A==1 AND B == 1){
   return 0;}
 else if(A==1 AND B == 0){
