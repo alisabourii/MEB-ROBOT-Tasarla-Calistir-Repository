@@ -8,7 +8,7 @@
 
 <a href='https://tr.wikipedia.org/wiki/Diyak'>Diyak Komponent</a>
 
-<a href='https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri'>Op Amp Nedir/</a>
+<a href='https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri'>Op Amp Nedir</a>
 
 <a href='https://maker.robotistan.com/mosfet/'>Mosfet nedir</a>
 
