@@ -40,7 +40,7 @@ else if(A==0 AND B == 1){
 else{
   return 1;}
 
-//OR NOT:
+//OR NOT (VEYA DEĞİL):
 if(A==1 OR B == 1){
   return 0;}
 else if(A==1 OR B == 0){
@@ -50,7 +50,7 @@ else if(A==0 OR B == 1){
 else if(A==0 OR B == 0){
   return 1;}
 
-//XOR:
+//XOR (ÖZEL VEYA):
 if(A==1 OR B == 1){
   return 0;}
 else if(A==1 OR B == 0){
