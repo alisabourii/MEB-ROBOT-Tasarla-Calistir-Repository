@@ -1,4 +1,4 @@
-AND:
+//AND:
 if(A==1 AND B == 1){
   return 1;}
 else if(A==1 AND B == 0){
@@ -8,7 +8,7 @@ else if(A==0 AND B == 1){
 else{
   return 0;}
 
-OR:
+//OR:
 if(A==1 OR B == 1){
   return 1;}
 else if(A==1 OR B == 0){
@@ -18,19 +18,19 @@ else if(A==0 OR B == 1){
 else if(A==0 OR B == 0){
   return 0;}
 
-NOT:
+//NOT:
 if(A==0){
   return 1;}
 else{
   return 0;}
 
-TAMPON:
+//TAMPON:
 if(A==1){
   return 1;}
 else{
   return 0;}
 
-AND NOT:
+//AND NOT:
 if(A==1 AND B == 1){
   return 0;}
 else if(A==1 AND B == 0){
@@ -40,7 +40,7 @@ else if(A==0 AND B == 1){
 else{
   return 1;}
 
-OR NOT:
+//OR NOT:
 if(A==1 OR B == 1){
   return 0;}
 else if(A==1 OR B == 0){
@@ -50,7 +50,7 @@ else if(A==0 OR B == 1){
 else if(A==0 OR B == 0){
   return 1;}
 
-XOR:
+//XOR:
 if(A==1 OR B == 1){
   return 0;}
 else if(A==1 OR B == 0){
@@ -60,7 +60,7 @@ else if(A==0 OR B == 1){
 else if(A==0 OR B == 0){
   return 0;}
 
-XNOR:
+//XNOR:
 if(A==1 OR B == 1){
   return 1;}
 else if(A==1 OR B == 0){
