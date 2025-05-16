@@ -1,4 +1,4 @@
-//AND:
+//AND (VE):
 if(A==1 AND B == 1){
   return 1;}
 else if(A==1 AND B == 0){
