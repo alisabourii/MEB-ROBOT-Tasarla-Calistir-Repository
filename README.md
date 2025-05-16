@@ -15,3 +15,26 @@
 # Lojik kapılar ve doğruluk tablosu
 
 ![image](https://github.com/user-attachments/assets/f99b7008-fec9-4f8c-b1c5-48a7ccb026f8)
+
+A ve B değişkeleri sadece 0 ve 1 (Binary sistem) değerleri alabilirler.
+
+
+AND:
+if(A==1 AND B == 1){
+  return 1;}
+else if(A==1 AND B == 0){
+  return 0;}
+else if(A==0 AND B == 1){
+  return 0;}
+else{
+  return 0;}
+
+OR:
+if(A==1 OR B == 1){
+  return 1;}
+else if(A==1 OR B == 0){
+  return 1;}
+else if(A==0 OR B == 1){
+  return 1;}
+else if(A==0 OR B == 0){
+  return 0;}
