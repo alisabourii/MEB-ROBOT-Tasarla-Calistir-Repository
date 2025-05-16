@@ -8,7 +8,7 @@ else if(A==0 AND B == 1){
 else{
   return 0;}
 
-//OR:
+//OR (VEYA):
 if(A==1 OR B == 1){
   return 1;}
 else if(A==1 OR B == 0){
