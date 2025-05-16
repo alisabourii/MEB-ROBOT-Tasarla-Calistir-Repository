@@ -8,9 +8,9 @@
 
 <a href='https://tr.wikipedia.org/wiki/Diyak'>Diyak Komponent</a>
 
-<a>Op Amp Nedir: https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri/</a>
+<a href='https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri'>Op Amp Nedir/</a>
 
-<label>Mosfet nedir: https://maker.robotistan.com/mosfet/</label>
+<a href='https://maker.robotistan.com/mosfet/'>Mosfet nedir</a>
 
 # Lojik kapılar ve doğruluk tablosu
 
