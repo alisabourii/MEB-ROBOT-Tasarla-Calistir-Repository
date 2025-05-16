@@ -1,14 +1,14 @@
 # MEB ROBOT Tasarla Çalıştır Repository + Tecrübe
 
 
-<label>Timer IC hakkında bilmen gereken tüm bilgiler buarada: https://en.wikipedia.org/wiki/555_timer_IC</label> 
+<a href='https://en.wikipedia.org/wiki/555_timer_IC'>Timer IC hakkında bilmen gereken tüm bilgiler buarada</a> 
 
 
-<label>Triyak Komponent: https://tr.wikipedia.org/wiki/Triyak</label>
+<a href='https://tr.wikipedia.org/wiki/Triyak'>Triyak Komponent</a>
 
-<label>Diyak Komponent: https://tr.wikipedia.org/wiki/Diyak</label>
+<a href='https://tr.wikipedia.org/wiki/Diyak'>Diyak Komponent</a>
 
-<label>Op Amp Nedir: https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri/</label>
+<a>Op Amp Nedir: https://blog.direnc.net/op-amp-nedir-ozellikleri-ve-cesitleri/</a>
 
 <label>Mosfet nedir: https://maker.robotistan.com/mosfet/</label>
 
