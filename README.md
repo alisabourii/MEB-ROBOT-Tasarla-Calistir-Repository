@@ -18,6 +18,74 @@
 
 A ve B değişkeleri sadece 0 ve 1 (Binary sistem) değerleri alabilirler.
 
+//AND:
+if(A==1 AND B == 1){
+  return 1;}
+else if(A==1 AND B == 0){
+  return 0;}
+else if(A==0 AND B == 1){
+  return 0;}
+else{
+  return 0;}
 
-**![carbon](https://github.com/user-attachments/assets/6bebc52f-b4e7-4864-a975-c91f00c0f34c)
-**
+//OR:
+if(A==1 OR B == 1){
+  return 1;}
+else if(A==1 OR B == 0){
+  return 1;}
+else if(A==0 OR B == 1){
+  return 1;}
+else if(A==0 OR B == 0){
+  return 0;}
+
+//NOT:
+if(A==0){
+  return 1;}
+else{
+  return 0;}
+
+//TAMPON:
+if(A==1){
+  return 1;}
+else{
+  return 0;}
+
+//AND NOT:
+if(A==1 AND B == 1){
+  return 0;}
+else if(A==1 AND B == 0){
+  return 1;}
+else if(A==0 AND B == 1){
+  return 1;}
+else{
+  return 1;}
+
+//OR NOT:
+if(A==1 OR B == 1){
+  return 0;}
+else if(A==1 OR B == 0){
+  return 0;}
+else if(A==0 OR B == 1){
+  return 0;}
+else if(A==0 OR B == 0){
+  return 1;}
+
+//XOR:
+if(A==1 OR B == 1){
+  return 0;}
+else if(A==1 OR B == 0){
+  return 1;}
+else if(A==0 OR B == 1){
+  return 1;}
+else if(A==0 OR B == 0){
+  return 0;}
+
+//XNOR:
+if(A==1 OR B == 1){
+  return 1;}
+else if(A==1 OR B == 0){
+  return 0;}
+else if(A==0 OR B == 1){
+  return 0;}
+else if(A==0 OR B == 0){
+  return 1;}
