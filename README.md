@@ -14,6 +14,8 @@
 
 <a href='https://www.robotiksistem.com/arduino_uno_ozellikleri.html'>Arduino Özellikleri<a/>
 
+
+
 # Lojik kapılar ve doğruluk tablosu
 
 ![image](https://github.com/user-attachments/assets/f99b7008-fec9-4f8c-b1c5-48a7ccb026f8)
