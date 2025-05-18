@@ -1,8 +1,8 @@
-int ENA = 10;
+int ENA = A5;
 int m1A = 6;
 int m1B = 7;
 
-int ENB = 11;
+int ENB = A4;
 int m2A = 8;
 int m2B = 9;
 
@@ -48,7 +48,6 @@ void sol(){
   digitalWrite(m2A, 1);
   digitalWrite(m2B, 0);
 }
-
 
 
 void sag(){
