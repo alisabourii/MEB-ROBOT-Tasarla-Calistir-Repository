@@ -12,6 +12,7 @@ const int enA = 5; // motor 1 hız
 const int enB = 6; // motor 2 hız 
 
 #define PWM 150 // motorlarımızın hızları
+#define PWMBase 100 // Motorların min hızı
 #define DIS 6 // sensörun gorus mesafesi
 
 void setup() {
