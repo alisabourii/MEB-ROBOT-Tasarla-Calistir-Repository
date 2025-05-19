@@ -22,8 +22,6 @@ void setup() {
 }
 
 void loop() {
-  // Simülasyon için sahte bir sapma değeri alıyoruz (-100 ile +100 arası)
-  // Gerçekte burada çizgi sensörlerinden gelen sapma değeri okunur
   error = readLineError(); // Örneğin -30 sol çizgide, 0 ortada, +30 sağ çizgide
 
   // PID hesaplama
