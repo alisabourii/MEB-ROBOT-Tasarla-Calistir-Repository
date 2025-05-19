@@ -1,3 +1,4 @@
+// Örnek kod
 // PID Sabitleri
 float Kp = 1.5;
 float Ki = 0.0;
