@@ -22,3 +22,6 @@
 
 <a href='https://github.com/alisabourii/MEB-ROBOT-Tasarla-Calistir-Repository/discussions/1'>Lojik devreleri kod şeklinde görmek için Tıklayınız</a>
 
+
+
+<p>Tavsiye: Bu kategoriye katılmak hem büyük ölçüde size tecrübe kazandırıyor hemde büyük ölçüde piskoloji yönetimi öğretiyor size</p>
