@@ -1,7 +1,7 @@
 # MEB ROBOT Tasarla Çalıştır Repository + Tecrübe
 
 
-<a href='https://en.wikipedia.org/wiki/555_timer_IC'>Timer IC hakkında bilmen gereken tüm bilgiler buarada</a> 
+<a href='https://en.wikipedia.org/wiki/555_timer_IC'>Timer IC hakkında bilmen gereken tüm bilgiler</a> 
 
 
 <a href='https://tr.wikipedia.org/wiki/Triyak'>Triyak Komponent</a>
