@@ -21,7 +21,3 @@
 ![image](https://github.com/user-attachments/assets/f99b7008-fec9-4f8c-b1c5-48a7ccb026f8)
 
 <a href='https://github.com/alisabourii/MEB-ROBOT-Tasarla-Calistir-Repository/discussions/1'>Lojik devreleri kod şeklinde görmek için Tıklayınız</a>
-
-
-
-<p>Tavsiye: Bu kategoriye katılmak hem büyük ölçüde size tecrübe kazandırıyor hemde büyük ölçüde piskoloji yönetimi öğretiyor size</p>
