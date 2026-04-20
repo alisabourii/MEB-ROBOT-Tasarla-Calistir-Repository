@@ -21,3 +21,15 @@
 ![image](https://github.com/user-attachments/assets/f99b7008-fec9-4f8c-b1c5-48a7ccb026f8)
 
 <a href='https://github.com/alisabourii/MEB-ROBOT-Tasarla-Calistir-Repository/discussions/1'>Lojik devreleri kod şeklinde görmek için Tıklayınız</a>
+
+<p><strong>Tavsiyem:</strong></p>
+
+<p>🤖 1- Robotu adım adım yapın, tercihen yaptıklarınızı not alın (özellikle bağlantıları).</p>
+
+<p>⏱️ 2- Zaman yönetimi yapın. Mükemmel bir ürün değil, işlevli bir iş ortaya koyun. İlk adım olarak en kolay görevi yapın. Sonra da en çok puan kazandıran görevi yapın.</p>
+
+<p>🧪 3- Robotunuzu ciddi bir şekilde test edin. Pillerin durumunu daima kontrol edin. Robotunuz düşük ve yüksek voltajda aynı şekilde çalışmayabilir.</p>
+
+<p>⚡ 4- Kısa devre yapmaktan kaçının. Yine söylüyorum, pilinizi koruyun.</p>
+
+<p>🔧 5- Bağlantılarınızı sabitleyin.</p>
